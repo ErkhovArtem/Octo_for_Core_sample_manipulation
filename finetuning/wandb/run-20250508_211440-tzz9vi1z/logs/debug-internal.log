@@ -1,0 +1,16 @@
+{"time":"2025-05-08T21:14:40.339143764+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/thesis/finetuning/wandb/run-20250508_211440-tzz9vi1z/logs/debug-core.log"}
+{"time":"2025-05-08T21:14:40.459911368+03:00","level":"INFO","msg":"created new stream","id":"tzz9vi1z"}
+{"time":"2025-05-08T21:14:40.459994499+03:00","level":"INFO","msg":"stream: started","id":"tzz9vi1z"}
+{"time":"2025-05-08T21:14:40.460130365+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"tzz9vi1z"}
+{"time":"2025-05-08T21:14:40.460186514+03:00","level":"INFO","msg":"sender: started","stream_id":"tzz9vi1z"}
+{"time":"2025-05-08T21:14:40.460174119+03:00","level":"INFO","msg":"handler: started","stream_id":"tzz9vi1z"}
+{"time":"2025-05-08T21:14:40.545898524+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-08T21:14:40.546532834+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-05-09T00:05:52.004115453+03:00","level":"INFO","msg":"stream: closing","id":"tzz9vi1z"}
+{"time":"2025-05-09T00:05:52.00424517+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-09T00:05:52.00432829+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-09T00:05:52.078230607+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-09T00:05:52.108217704+03:00","level":"INFO","msg":"handler: closed","stream_id":"tzz9vi1z"}
+{"time":"2025-05-09T00:05:52.108273645+03:00","level":"INFO","msg":"sender: closed","stream_id":"tzz9vi1z"}
+{"time":"2025-05-09T00:05:52.108274527+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tzz9vi1z"}
+{"time":"2025-05-09T00:05:52.108415161+03:00","level":"INFO","msg":"stream: closed","id":"tzz9vi1z"}

@@ -1,0 +1,26 @@
+{
+  "os": "Linux-6.8.0-58-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-05-07T17:12:13.697515Z",
+  "program": "/home/hyperdog/thesis/finetuning/finetune.py",
+  "codePath": "finetune.py",
+  "root": "/home/hyperdog/thesis/finetuning",
+  "host": "hyperdog",
+  "executable": "/home/hyperdog/anaconda3/envs/octo/bin/python",
+  "codePathLocal": "finetune.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "disk": {
+    "/": {
+      "total": "981335162880",
+      "used": "336831344640"
+    }
+  },
+  "memory": {
+    "total": "67223400448"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  }
+}

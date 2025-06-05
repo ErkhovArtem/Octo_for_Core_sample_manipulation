@@ -1,0 +1,42 @@
+{
+  "os": "Linux-6.8.0-57-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-04-25T18:34:33.205336Z",
+  "program": "/home/hyperdog/octo/finetuning/finetune_rgb.py",
+  "codePath": "finetuning/finetune_rgb.py",
+  "git": {
+    "remote": "https://github.com/ErkhovArtem/octo.git",
+    "commit": "0caadfd6ee6263fcc133db14071df733432f584a"
+  },
+  "email": "erkhovartem@gmail.com",
+  "root": "/home/hyperdog/octo/finetuning",
+  "host": "hyperdog",
+  "executable": "/home/hyperdog/anaconda3/envs/octo/bin/python",
+  "codePathLocal": "finetune_rgb.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 4090",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "981335162880",
+      "used": "237863202816"
+    }
+  },
+  "memory": {
+    "total": "67222421504"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 32
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4090",
+      "memoryTotal": "25757220864",
+      "cudaCores": 16384,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

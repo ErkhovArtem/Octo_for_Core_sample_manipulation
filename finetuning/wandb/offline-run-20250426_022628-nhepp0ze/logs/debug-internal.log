@@ -1,0 +1,15 @@
+{"time":"2025-04-26T02:26:28.658247863+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250426_022628-nhepp0ze/logs/debug-core.log"}
+{"time":"2025-04-26T02:26:28.76288888+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-26T02:26:28.763175268+03:00","level":"INFO","msg":"created new stream","id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:28.76323885+03:00","level":"INFO","msg":"stream: started","id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:28.763296042+03:00","level":"INFO","msg":"handler: started","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:28.763290145+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:28.763364887+03:00","level":"INFO","msg":"sender: started","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:28.772061105+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-26T02:26:38.996634647+03:00","level":"INFO","msg":"stream: closing","id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:38.99669859+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-26T02:26:38.996823073+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-26T02:26:38.997001416+03:00","level":"INFO","msg":"handler: closed","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:38.997020659+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:38.997104299+03:00","level":"INFO","msg":"sender: closed","stream_id":"nhepp0ze"}
+{"time":"2025-04-26T02:26:38.997189231+03:00","level":"INFO","msg":"stream: closed","id":"nhepp0ze"}

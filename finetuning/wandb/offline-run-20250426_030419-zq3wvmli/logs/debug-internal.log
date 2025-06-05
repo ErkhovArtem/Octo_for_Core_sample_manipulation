@@ -1,0 +1,15 @@
+{"time":"2025-04-26T03:04:19.40443501+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250426_030419-zq3wvmli/logs/debug-core.log"}
+{"time":"2025-04-26T03:04:19.510389263+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-26T03:04:19.510627031+03:00","level":"INFO","msg":"created new stream","id":"zq3wvmli"}
+{"time":"2025-04-26T03:04:19.510683858+03:00","level":"INFO","msg":"stream: started","id":"zq3wvmli"}
+{"time":"2025-04-26T03:04:19.510775855+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:04:19.510885583+03:00","level":"INFO","msg":"handler: started","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:04:19.510906317+03:00","level":"INFO","msg":"sender: started","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:04:19.522289756+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-26T03:05:03.437564553+03:00","level":"INFO","msg":"stream: closing","id":"zq3wvmli"}
+{"time":"2025-04-26T03:05:03.437629097+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-26T03:05:03.437679266+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-26T03:05:03.437836816+03:00","level":"INFO","msg":"handler: closed","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:05:03.437853339+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:05:03.437885177+03:00","level":"INFO","msg":"sender: closed","stream_id":"zq3wvmli"}
+{"time":"2025-04-26T03:05:03.438011734+03:00","level":"INFO","msg":"stream: closed","id":"zq3wvmli"}

@@ -1,0 +1,16 @@
+{"time":"2025-05-14T14:29:16.647618828+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/thesis/finetuning/wandb/run-20250514_142916-buquehzd/logs/debug-core.log"}
+{"time":"2025-05-14T14:29:16.762937926+03:00","level":"INFO","msg":"created new stream","id":"buquehzd"}
+{"time":"2025-05-14T14:29:16.762984321+03:00","level":"INFO","msg":"stream: started","id":"buquehzd"}
+{"time":"2025-05-14T14:29:16.763016508+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"buquehzd"}
+{"time":"2025-05-14T14:29:16.76302118+03:00","level":"INFO","msg":"sender: started","stream_id":"buquehzd"}
+{"time":"2025-05-14T14:29:16.763149193+03:00","level":"INFO","msg":"handler: started","stream_id":"buquehzd"}
+{"time":"2025-05-14T14:29:16.810824417+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-14T14:29:16.811403036+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-05-14T17:14:22.418273518+03:00","level":"INFO","msg":"stream: closing","id":"buquehzd"}
+{"time":"2025-05-14T17:14:22.418324032+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-14T17:14:22.418446011+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-14T17:14:22.492418041+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-14T17:14:22.521599588+03:00","level":"INFO","msg":"handler: closed","stream_id":"buquehzd"}
+{"time":"2025-05-14T17:14:22.521672963+03:00","level":"INFO","msg":"sender: closed","stream_id":"buquehzd"}
+{"time":"2025-05-14T17:14:22.521657318+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"buquehzd"}
+{"time":"2025-05-14T17:14:22.521846615+03:00","level":"INFO","msg":"stream: closed","id":"buquehzd"}

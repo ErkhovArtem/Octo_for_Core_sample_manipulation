@@ -1,0 +1,8 @@
+{"time":"2025-04-25T21:32:10.812439432+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/run-20250425_213210-u2c8pl43/logs/debug-core.log"}
+{"time":"2025-04-25T21:32:10.923705865+03:00","level":"INFO","msg":"created new stream","id":"u2c8pl43"}
+{"time":"2025-04-25T21:32:10.923761078+03:00","level":"INFO","msg":"stream: started","id":"u2c8pl43"}
+{"time":"2025-04-25T21:32:10.923877888+03:00","level":"INFO","msg":"sender: started","stream_id":"u2c8pl43"}
+{"time":"2025-04-25T21:32:10.923904683+03:00","level":"INFO","msg":"handler: started","stream_id":"u2c8pl43"}
+{"time":"2025-04-25T21:32:10.923924871+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"u2c8pl43"}
+{"time":"2025-04-25T21:32:10.993860181+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-25T21:32:10.994196357+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}

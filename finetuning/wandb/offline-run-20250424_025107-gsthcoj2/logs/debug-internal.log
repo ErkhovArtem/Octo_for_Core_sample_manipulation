@@ -1,0 +1,15 @@
+{"time":"2025-04-24T02:51:07.876278449+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250424_025107-gsthcoj2/logs/debug-core.log"}
+{"time":"2025-04-24T02:51:07.982402744+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T02:51:07.982554206+03:00","level":"INFO","msg":"created new stream","id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:07.982585434+03:00","level":"INFO","msg":"stream: started","id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:07.982618086+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:07.982784922+03:00","level":"INFO","msg":"handler: started","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:07.982823873+03:00","level":"INFO","msg":"sender: started","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:07.988997952+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T02:51:16.192014907+03:00","level":"INFO","msg":"stream: closing","id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:16.192059389+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T02:51:16.192149115+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T02:51:16.19240452+03:00","level":"INFO","msg":"handler: closed","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:16.19243823+03:00","level":"INFO","msg":"sender: closed","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:16.192429378+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gsthcoj2"}
+{"time":"2025-04-24T02:51:16.19262785+03:00","level":"INFO","msg":"stream: closed","id":"gsthcoj2"}

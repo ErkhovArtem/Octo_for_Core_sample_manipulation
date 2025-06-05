@@ -1,0 +1,15 @@
+{"time":"2025-04-22T02:19:42.285779136+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_021942-hl8ftuns/logs/debug-core.log"}
+{"time":"2025-04-22T02:19:42.390131716+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T02:19:42.39027629+03:00","level":"INFO","msg":"created new stream","id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:42.390306494+03:00","level":"INFO","msg":"stream: started","id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:42.390445931+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:42.390580975+03:00","level":"INFO","msg":"sender: started","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:42.390679236+03:00","level":"INFO","msg":"handler: started","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:42.39855065+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T02:19:50.712174702+03:00","level":"INFO","msg":"stream: closing","id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:50.712208799+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T02:19:50.712323499+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T02:19:50.712421628+03:00","level":"INFO","msg":"handler: closed","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:50.712433252+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:50.712458439+03:00","level":"INFO","msg":"sender: closed","stream_id":"hl8ftuns"}
+{"time":"2025-04-22T02:19:50.71255118+03:00","level":"INFO","msg":"stream: closed","id":"hl8ftuns"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-22T15:15:30.070450003+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_151530-y04obmr0/logs/debug-core.log"}
+{"time":"2025-04-22T15:15:30.175867379+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T15:15:30.175975742+03:00","level":"INFO","msg":"created new stream","id":"y04obmr0"}
+{"time":"2025-04-22T15:15:30.175994577+03:00","level":"INFO","msg":"stream: started","id":"y04obmr0"}
+{"time":"2025-04-22T15:15:30.176157124+03:00","level":"INFO","msg":"sender: started","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:30.176192167+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:30.176265756+03:00","level":"INFO","msg":"handler: started","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:30.181037662+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T15:15:38.408005813+03:00","level":"INFO","msg":"stream: closing","id":"y04obmr0"}
+{"time":"2025-04-22T15:15:38.408039365+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T15:15:38.408188747+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T15:15:38.408481367+03:00","level":"INFO","msg":"handler: closed","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:38.408510541+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:38.408532389+03:00","level":"INFO","msg":"sender: closed","stream_id":"y04obmr0"}
+{"time":"2025-04-22T15:15:38.408694735+03:00","level":"INFO","msg":"stream: closed","id":"y04obmr0"}

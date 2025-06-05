@@ -1,0 +1,73 @@
+I0428 14:12:44.348646 134535148005184 finetune.py:44] Loading pre-trained model...
+Fetching 6 files: 100%|████████████████████████| 6/6 [00:00<00:00, 28468.13it/s]
+I0428 14:12:45.813465 134535148005184 octo_module.py:219] repeating task tokens at each timestep to perform cross-modal attention
+I0428 14:12:49.495870 134535148005184 checkpointer.py:164] Restoring item from /home/hyperdog/.cache/huggingface/hub/models--rail-berkeley--octo-small-1.5/snapshots/dc9aa3019f764726c770814b27e4ab0fc6e32a58/300000/default.
+I0428 14:12:49.912151 134535148005184 checkpointer.py:166] Finished restoring checkpoint from /home/hyperdog/.cache/huggingface/hub/models--rail-berkeley--octo-small-1.5/snapshots/dc9aa3019f764726c770814b27e4ab0fc6e32a58/300000/default.
+I0428 14:12:50.975633 134535148005184 finetune.py:51] Loading finetuning dataset...
+I0428 14:12:50.978933 134535148005184 dataset_info.py:578] Load dataset info from /home/hyperdog/tensorflow_datasets/grasping_dataset/1.0.1
+I0428 14:12:51.108033 134535148005184 logging_logger.py:49] Constructing tf.data.Dataset grasping_dataset for split all, from /home/hyperdog/tensorflow_datasets/grasping_dataset/1.0.1
+Traceback (most recent call last):
+  File "/home/hyperdog/octo/finetuning/finetune.py", line 196, in <module>
+    app.run(main)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/absl/app.py", line 316, in run
+    _run_main(main, args)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/absl/app.py", line 261, in _run_main
+    sys.exit(main(argv))
+  File "/home/hyperdog/octo/finetuning/finetune.py", line 52, in main
+    dataset = make_single_dataset(
+  File "/home/hyperdog/octo/octo/data/dataset.py", line 473, in make_single_dataset
+    dataset, dataset_statistics = make_dataset_from_rlds(
+  File "/home/hyperdog/octo/octo/data/dataset.py", line 394, in make_dataset_from_rlds
+    full_dataset = full_dataset.traj_map(restructure).filter(is_nonzero_length)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/dlimp/dataset.py", line 17, in wrapper
+    result = f(*args, **kwargs)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/dlimp/dataset.py", line 178, in traj_map
+    return super().map(fn, num_parallel_calls=num_parallel_calls, **kwargs)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/dataset_ops.py", line 2280, in map
+    return map_op._map_v2(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/map_op.py", line 40, in _map_v2
+    return _ParallelMapDataset(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/map_op.py", line 148, in __init__
+    self._map_func = structured_function.StructuredFunctionWrapper(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/structured_function.py", line 265, in __init__
+    self._function = fn_factory()
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/polymorphic_function.py", line 1227, in get_concrete_function
+    concrete = self._get_concrete_function_garbage_collected(*args, **kwargs)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/polymorphic_function.py", line 1197, in _get_concrete_function_garbage_collected
+    self._initialize(args, kwargs, add_initializers_to=initializers)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/polymorphic_function.py", line 695, in _initialize
+    self._concrete_variable_creation_fn = tracing_compilation.trace_function(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/tracing_compilation.py", line 178, in trace_function
+    concrete_function = _maybe_define_function(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/tracing_compilation.py", line 283, in _maybe_define_function
+    concrete_function = _create_concrete_function(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/tracing_compilation.py", line 310, in _create_concrete_function
+    traced_func_graph = func_graph_module.func_graph_from_py_func(
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/framework/func_graph.py", line 1059, in func_graph_from_py_func
+    func_outputs = python_func(*func_args, **func_kwargs)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/eager/polymorphic_function/polymorphic_function.py", line 598, in wrapped_fn
+    out = weak_wrapped_fn().__wrapped__(*args, **kwds)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/structured_function.py", line 231, in wrapped_fn
+    ret = wrapper_helper(*args)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/data/ops/structured_function.py", line 161, in wrapper_helper
+    ret = autograph.tf_convert(self._func, ag_ctx)(*nested_args)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/autograph/impl/api.py", line 693, in wrapper
+    raise e.ag_error_metadata.to_exception(e)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/autograph/impl/api.py", line 690, in wrapper
+    return converted_call(f, args, kwargs, options=options)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/autograph/impl/api.py", line 439, in converted_call
+    result = converted_f(*effective_args, **kwargs)
+  File "/tmp/__autograph_generated_filet1s8d62g.py", line 109, in tf__restructure
+    ag__.if_stmt(ag__.ld(proprio_obs_key) is not None, if_body_4, else_body_4, get_state_6, set_state_6, ("new_obs['proprio']",), 1)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/autograph/operators/control_flow.py", line 1217, in if_stmt
+    _py_if_stmt(cond, body, orelse)
+  File "/home/hyperdog/anaconda3/envs/octo/lib/python3.10/site-packages/tensorflow/python/autograph/operators/control_flow.py", line 1270, in _py_if_stmt
+    return body() if cond else orelse()
+  File "/tmp/__autograph_generated_filet1s8d62g.py", line 105, in if_body_4
+    ag__.ld(new_obs)['proprio'] = ag__.converted_call(ag__.ld(tf).cast, (ag__.ld(old_obs)[ag__.ld(proprio_obs_key)], ag__.ld(tf).float32), None, fscope)
+tensorflow.python.autograph.pyct.error_utils.MultilineMessageKeyError: in user code:
+
+    File "/home/hyperdog/octo/octo/data/dataset.py", line 355, in restructure  *
+        new_obs["proprio"] = tf.cast(old_obs[proprio_obs_key], tf.float32)
+
+    KeyError: 'proprio'

@@ -1,0 +1,16 @@
+{"time":"2025-04-26T03:18:06.728985078+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/run-20250426_031806-knx4klca/logs/debug-core.log"}
+{"time":"2025-04-26T03:18:06.844202636+03:00","level":"INFO","msg":"created new stream","id":"knx4klca"}
+{"time":"2025-04-26T03:18:06.84434843+03:00","level":"INFO","msg":"stream: started","id":"knx4klca"}
+{"time":"2025-04-26T03:18:06.844394936+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"knx4klca"}
+{"time":"2025-04-26T03:18:06.844403292+03:00","level":"INFO","msg":"sender: started","stream_id":"knx4klca"}
+{"time":"2025-04-26T03:18:06.844540689+03:00","level":"INFO","msg":"handler: started","stream_id":"knx4klca"}
+{"time":"2025-04-26T03:18:06.891447959+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-26T03:18:06.891810088+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-04-26T06:02:44.656453655+03:00","level":"INFO","msg":"stream: closing","id":"knx4klca"}
+{"time":"2025-04-26T06:02:44.656468309+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-26T06:02:44.656510156+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-26T06:02:44.724332053+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-26T06:02:44.745458233+03:00","level":"INFO","msg":"handler: closed","stream_id":"knx4klca"}
+{"time":"2025-04-26T06:02:44.745480913+03:00","level":"INFO","msg":"sender: closed","stream_id":"knx4klca"}
+{"time":"2025-04-26T06:02:44.745475643+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"knx4klca"}
+{"time":"2025-04-26T06:02:44.745524588+03:00","level":"INFO","msg":"stream: closed","id":"knx4klca"}

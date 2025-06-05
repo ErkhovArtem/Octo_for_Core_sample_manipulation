@@ -1,0 +1,15 @@
+{"time":"2025-04-22T15:21:17.64765195+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_152117-unng0atg/logs/debug-core.log"}
+{"time":"2025-04-22T15:21:17.75470229+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T15:21:17.755013538+03:00","level":"INFO","msg":"created new stream","id":"unng0atg"}
+{"time":"2025-04-22T15:21:17.755078284+03:00","level":"INFO","msg":"stream: started","id":"unng0atg"}
+{"time":"2025-04-22T15:21:17.755170398+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:17.755234955+03:00","level":"INFO","msg":"sender: started","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:17.755266818+03:00","level":"INFO","msg":"handler: started","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:17.76009989+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T15:21:28.472717599+03:00","level":"INFO","msg":"stream: closing","id":"unng0atg"}
+{"time":"2025-04-22T15:21:28.472773855+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T15:21:28.472852527+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T15:21:28.473005046+03:00","level":"INFO","msg":"handler: closed","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:28.473018501+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:28.473046948+03:00","level":"INFO","msg":"sender: closed","stream_id":"unng0atg"}
+{"time":"2025-04-22T15:21:28.473129946+03:00","level":"INFO","msg":"stream: closed","id":"unng0atg"}

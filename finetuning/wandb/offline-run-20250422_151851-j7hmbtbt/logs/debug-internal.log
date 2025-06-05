@@ -1,0 +1,15 @@
+{"time":"2025-04-22T15:18:51.785732776+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_151851-j7hmbtbt/logs/debug-core.log"}
+{"time":"2025-04-22T15:18:51.89053068+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T15:18:51.890680495+03:00","level":"INFO","msg":"created new stream","id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:51.890742057+03:00","level":"INFO","msg":"stream: started","id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:51.890908767+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:51.890945296+03:00","level":"INFO","msg":"sender: started","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:51.890961283+03:00","level":"INFO","msg":"handler: started","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:51.898519538+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T15:18:59.261725957+03:00","level":"INFO","msg":"stream: closing","id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:59.261774098+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T15:18:59.26183922+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T15:18:59.261974032+03:00","level":"INFO","msg":"handler: closed","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:59.261985925+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:59.262020239+03:00","level":"INFO","msg":"sender: closed","stream_id":"j7hmbtbt"}
+{"time":"2025-04-22T15:18:59.262110259+03:00","level":"INFO","msg":"stream: closed","id":"j7hmbtbt"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-24T02:51:54.634416386+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250424_025154-cxmnv80p/logs/debug-core.log"}
+{"time":"2025-04-24T02:51:54.740661716+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-24T02:51:54.740893648+03:00","level":"INFO","msg":"created new stream","id":"cxmnv80p"}
+{"time":"2025-04-24T02:51:54.740953498+03:00","level":"INFO","msg":"stream: started","id":"cxmnv80p"}
+{"time":"2025-04-24T02:51:54.741117865+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:51:54.741284724+03:00","level":"INFO","msg":"handler: started","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:51:54.741305764+03:00","level":"INFO","msg":"sender: started","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:51:54.751736216+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T02:53:01.722221122+03:00","level":"INFO","msg":"stream: closing","id":"cxmnv80p"}
+{"time":"2025-04-24T02:53:01.722344286+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-24T02:53:01.722477507+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-24T02:53:01.722651004+03:00","level":"INFO","msg":"handler: closed","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:53:01.722669834+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:53:01.722682052+03:00","level":"INFO","msg":"sender: closed","stream_id":"cxmnv80p"}
+{"time":"2025-04-24T02:53:01.722809956+03:00","level":"INFO","msg":"stream: closed","id":"cxmnv80p"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-22T15:09:46.432039249+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_150946-ypox4elh/logs/debug-core.log"}
+{"time":"2025-04-22T15:09:46.536869258+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T15:09:46.537218295+03:00","level":"INFO","msg":"created new stream","id":"ypox4elh"}
+{"time":"2025-04-22T15:09:46.537249352+03:00","level":"INFO","msg":"stream: started","id":"ypox4elh"}
+{"time":"2025-04-22T15:09:46.537275195+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:46.537411735+03:00","level":"INFO","msg":"sender: started","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:46.537477377+03:00","level":"INFO","msg":"handler: started","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:46.543578695+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T15:09:54.742732774+03:00","level":"INFO","msg":"stream: closing","id":"ypox4elh"}
+{"time":"2025-04-22T15:09:54.742813279+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T15:09:54.742969333+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T15:09:54.74354039+03:00","level":"INFO","msg":"handler: closed","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:54.743600149+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:54.743658053+03:00","level":"INFO","msg":"sender: closed","stream_id":"ypox4elh"}
+{"time":"2025-04-22T15:09:54.743751883+03:00","level":"INFO","msg":"stream: closed","id":"ypox4elh"}

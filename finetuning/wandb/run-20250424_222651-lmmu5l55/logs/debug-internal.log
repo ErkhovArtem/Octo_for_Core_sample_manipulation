@@ -1,0 +1,16 @@
+{"time":"2025-04-24T22:26:51.714121974+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/run-20250424_222651-lmmu5l55/logs/debug-core.log"}
+{"time":"2025-04-24T22:26:51.82914749+03:00","level":"INFO","msg":"created new stream","id":"lmmu5l55"}
+{"time":"2025-04-24T22:26:51.829195728+03:00","level":"INFO","msg":"stream: started","id":"lmmu5l55"}
+{"time":"2025-04-24T22:26:51.829274278+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"lmmu5l55"}
+{"time":"2025-04-24T22:26:51.82933983+03:00","level":"INFO","msg":"handler: started","stream_id":"lmmu5l55"}
+{"time":"2025-04-24T22:26:51.829401177+03:00","level":"INFO","msg":"sender: started","stream_id":"lmmu5l55"}
+{"time":"2025-04-24T22:26:51.886449541+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-24T22:26:51.886823522+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-04-25T01:22:54.513194442+03:00","level":"INFO","msg":"stream: closing","id":"lmmu5l55"}
+{"time":"2025-04-25T01:22:54.513253861+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-25T01:22:54.513331452+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-25T01:22:54.589034556+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-25T01:22:54.61937526+03:00","level":"INFO","msg":"handler: closed","stream_id":"lmmu5l55"}
+{"time":"2025-04-25T01:22:54.619427704+03:00","level":"INFO","msg":"sender: closed","stream_id":"lmmu5l55"}
+{"time":"2025-04-25T01:22:54.619410073+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lmmu5l55"}
+{"time":"2025-04-25T01:22:54.619666722+03:00","level":"INFO","msg":"stream: closed","id":"lmmu5l55"}

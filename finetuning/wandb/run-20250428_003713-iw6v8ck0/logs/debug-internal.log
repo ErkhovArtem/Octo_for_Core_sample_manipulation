@@ -1,0 +1,16 @@
+{"time":"2025-04-28T00:37:13.968742433+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/run-20250428_003713-iw6v8ck0/logs/debug-core.log"}
+{"time":"2025-04-28T00:37:14.085324979+03:00","level":"INFO","msg":"created new stream","id":"iw6v8ck0"}
+{"time":"2025-04-28T00:37:14.085406752+03:00","level":"INFO","msg":"stream: started","id":"iw6v8ck0"}
+{"time":"2025-04-28T00:37:14.085462753+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T00:37:14.085567083+03:00","level":"INFO","msg":"handler: started","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T00:37:14.085570981+03:00","level":"INFO","msg":"sender: started","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T00:37:14.146088828+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-28T00:37:14.146171122+03:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2025-04-28T03:20:29.813819898+03:00","level":"INFO","msg":"stream: closing","id":"iw6v8ck0"}
+{"time":"2025-04-28T03:20:29.813871925+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-28T03:20:29.813938239+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-28T03:20:29.88777128+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-28T03:20:29.91109055+03:00","level":"INFO","msg":"handler: closed","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T03:20:29.911150808+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T03:20:29.91116771+03:00","level":"INFO","msg":"sender: closed","stream_id":"iw6v8ck0"}
+{"time":"2025-04-28T03:20:29.911244564+03:00","level":"INFO","msg":"stream: closed","id":"iw6v8ck0"}

@@ -1,0 +1,15 @@
+{"time":"2025-04-22T01:42:09.296193528+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_014209-8sbnvhdc/logs/debug-core.log"}
+{"time":"2025-04-22T01:42:09.401178231+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T01:42:09.401792165+03:00","level":"INFO","msg":"created new stream","id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:09.401860445+03:00","level":"INFO","msg":"stream: started","id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:09.402020184+03:00","level":"INFO","msg":"sender: started","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:09.402008684+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:09.40202297+03:00","level":"INFO","msg":"handler: started","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:09.40987876+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T01:42:23.651601405+03:00","level":"INFO","msg":"stream: closing","id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:23.65165164+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T01:42:23.651850903+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T01:42:23.65237492+03:00","level":"INFO","msg":"handler: closed","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:23.652396815+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:23.652417248+03:00","level":"INFO","msg":"sender: closed","stream_id":"8sbnvhdc"}
+{"time":"2025-04-22T01:42:23.652609243+03:00","level":"INFO","msg":"stream: closed","id":"8sbnvhdc"}

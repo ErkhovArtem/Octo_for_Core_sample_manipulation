@@ -1,0 +1,15 @@
+{"time":"2025-04-22T01:48:00.304954322+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_014800-peetatnz/logs/debug-core.log"}
+{"time":"2025-04-22T01:48:00.408221826+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T01:48:00.408359044+03:00","level":"INFO","msg":"created new stream","id":"peetatnz"}
+{"time":"2025-04-22T01:48:00.408387654+03:00","level":"INFO","msg":"stream: started","id":"peetatnz"}
+{"time":"2025-04-22T01:48:00.408481174+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:00.408624332+03:00","level":"INFO","msg":"sender: started","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:00.408719848+03:00","level":"INFO","msg":"handler: started","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:00.415990264+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T01:48:08.889927464+03:00","level":"INFO","msg":"stream: closing","id":"peetatnz"}
+{"time":"2025-04-22T01:48:08.889992064+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T01:48:08.890132874+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T01:48:08.890412951+03:00","level":"INFO","msg":"handler: closed","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:08.890443788+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:08.890458614+03:00","level":"INFO","msg":"sender: closed","stream_id":"peetatnz"}
+{"time":"2025-04-22T01:48:08.890759245+03:00","level":"INFO","msg":"stream: closed","id":"peetatnz"}

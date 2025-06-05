@@ -1,0 +1,15 @@
+{"time":"2025-04-22T02:18:56.631785044+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/offline-run-20250422_021856-66knnlce/logs/debug-core.log"}
+{"time":"2025-04-22T02:18:56.736079215+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-22T02:18:56.736237237+03:00","level":"INFO","msg":"created new stream","id":"66knnlce"}
+{"time":"2025-04-22T02:18:56.736262996+03:00","level":"INFO","msg":"stream: started","id":"66knnlce"}
+{"time":"2025-04-22T02:18:56.73629083+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:18:56.736445484+03:00","level":"INFO","msg":"handler: started","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:18:56.736630784+03:00","level":"INFO","msg":"sender: started","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:18:56.745455762+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-22T02:19:04.979834408+03:00","level":"INFO","msg":"stream: closing","id":"66knnlce"}
+{"time":"2025-04-22T02:19:04.97987857+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-22T02:19:04.979973327+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-22T02:19:04.980169598+03:00","level":"INFO","msg":"handler: closed","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:19:04.980186801+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:19:04.980212032+03:00","level":"INFO","msg":"sender: closed","stream_id":"66knnlce"}
+{"time":"2025-04-22T02:19:04.980448544+03:00","level":"INFO","msg":"stream: closed","id":"66knnlce"}

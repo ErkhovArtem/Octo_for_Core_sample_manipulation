@@ -1,0 +1,8 @@
+{"time":"2025-04-29T15:32:45.714638802+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250429_153245-7rq2f66v/logs/debug-core.log"}
+{"time":"2025-04-29T15:32:45.821304159+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-29T15:32:45.821826564+03:00","level":"INFO","msg":"created new stream","id":"7rq2f66v"}
+{"time":"2025-04-29T15:32:45.82188444+03:00","level":"INFO","msg":"stream: started","id":"7rq2f66v"}
+{"time":"2025-04-29T15:32:45.822028581+03:00","level":"INFO","msg":"sender: started","stream_id":"7rq2f66v"}
+{"time":"2025-04-29T15:32:45.822031492+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"7rq2f66v"}
+{"time":"2025-04-29T15:32:45.82210369+03:00","level":"INFO","msg":"handler: started","stream_id":"7rq2f66v"}
+{"time":"2025-04-29T15:32:45.828235353+03:00","level":"INFO","msg":"Starting system monitor"}

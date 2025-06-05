@@ -1,0 +1,15 @@
+{"time":"2025-04-26T02:27:29.44494856+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/finetuning/wandb/offline-run-20250426_022729-zfvojhap/logs/debug-core.log"}
+{"time":"2025-04-26T02:27:29.551696596+03:00","level":"WARN","msg":"GraphQL client is nil, skipping feature loading"}
+{"time":"2025-04-26T02:27:29.551854379+03:00","level":"INFO","msg":"created new stream","id":"zfvojhap"}
+{"time":"2025-04-26T02:27:29.551885741+03:00","level":"INFO","msg":"stream: started","id":"zfvojhap"}
+{"time":"2025-04-26T02:27:29.551985785+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:29.552084705+03:00","level":"INFO","msg":"sender: started","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:29.552158703+03:00","level":"INFO","msg":"handler: started","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:29.559363368+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-26T02:27:40.83950181+03:00","level":"INFO","msg":"stream: closing","id":"zfvojhap"}
+{"time":"2025-04-26T02:27:40.839581187+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-26T02:27:40.839684078+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-26T02:27:40.839917617+03:00","level":"INFO","msg":"handler: closed","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:40.839945795+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:40.83997236+03:00","level":"INFO","msg":"sender: closed","stream_id":"zfvojhap"}
+{"time":"2025-04-26T02:27:40.840133688+03:00","level":"INFO","msg":"stream: closed","id":"zfvojhap"}

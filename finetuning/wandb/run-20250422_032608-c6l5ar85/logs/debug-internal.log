@@ -1,0 +1,17 @@
+{"time":"2025-04-22T03:26:08.286360126+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/hyperdog/octo/examples/wandb/run-20250422_032608-c6l5ar85/logs/debug-core.log"}
+{"time":"2025-04-22T03:26:08.402366011+03:00","level":"INFO","msg":"created new stream","id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:08.402520058+03:00","level":"INFO","msg":"stream: started","id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:08.402475818+03:00","level":"INFO","msg":"handler: started","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:08.402517195+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:08.402577114+03:00","level":"INFO","msg":"sender: started","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:08.411910302+03:00","level":"ERROR","msg":"HTTP error","status":401,"method":"POST","url":"http://localhost:8080/graphql"}
+{"time":"2025-04-22T03:26:08.412155029+03:00","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 401: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"user is not logged in\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
+{"time":"2025-04-22T03:26:09.415881304+03:00","level":"INFO","msg":"stream: closing","id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:09.425290539+03:00","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-04-22T03:26:09.481527462+03:00","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"http://localhost:8080/graphql"}
+{"time":"2025-04-22T03:26:09.481689854+03:00","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"entity  not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-04-22T03:26:09.482841331+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-22T03:26:09.482909472+03:00","level":"INFO","msg":"handler: closed","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:09.482937225+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:09.483006341+03:00","level":"INFO","msg":"sender: closed","stream_id":"c6l5ar85"}
+{"time":"2025-04-22T03:26:09.483016864+03:00","level":"INFO","msg":"stream: closed","id":"c6l5ar85"}
