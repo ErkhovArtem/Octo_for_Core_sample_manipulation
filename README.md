@@ -2,6 +2,11 @@
 
 This repository demonstrates the adaptation of the [Octo foundation model](https://github.com/octo-models/octo) for robotic manipulation of geological core samples.
 
+## Demo
+
+![put_in](put_in.gif)
+![take_out](take_out.gif)
+
 ## Implementation details
 
 Training process:
